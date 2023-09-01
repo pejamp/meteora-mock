@@ -79,6 +79,11 @@
       "id": 6,
       "name": "óculos",
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693599142/meteora/Imagens%20Cards/Categoria_%C3%B3culos_t8693i.png"
+    },
+    {
+      "id": 7,
+      "name": "todas",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693612002/meteora/Imagens%20Cards/cv7s_53fg_201030_psdoyi.jpg"
     }
   ]
 }

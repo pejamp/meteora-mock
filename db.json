@@ -1,5 +1,46 @@
 {
   "products": [
-    
+    {
+      "id": 1,
+      "name": "Camiseta Conforto",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Camiseta_ogi2wf.png",
+      "description": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.",
+      "price": "R$ 70,00"
+    },
+    {
+      "id": 2,
+      "name": "Calça Alfaiataria",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Cal%C3%A7a_ntbchc.png",
+      "description": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
+      "price": "R$ 180,00"
+    },
+    {
+      "id": 3,
+      "name": "Tênis Chunky",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544204/meteora/Imagens%20Cards/Tenis_z6hlun.png",
+      "description": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
+      "price": "R$ 250,00"
+    },
+    {
+      "id": 4,
+      "name": "Jaqueta Jeans",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Jaqueta_rjimqr.png",
+      "description": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
+      "price": "R$ 150,00"
+    },
+    {
+      "id": 5,
+      "name": "Óculos Redondo",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/%C3%B3culos_lauwmp.png",
+      "description": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
+      "price": "R$ 120,00"
+    },
+    {
+      "id": 6,
+      "name": "Bolsa coringa",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Bolsa_vlthym.png",
+      "description": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
+      "price": "R$ 120,00"
+    }
   ]
 }

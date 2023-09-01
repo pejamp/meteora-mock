@@ -35,13 +35,6 @@
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/%C3%B3culos_lauwmp.png",
       "description": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
       "price": "R$ 120,00"
-    },
-    {
-      "id": 6,
-      "name": "Bolsa coringa",
-      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Bolsa_vlthym.png",
-      "description": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
-      "price": "R$ 120,00"
     }
   ]
 }

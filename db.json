@@ -6,14 +6,6 @@
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Camiseta_ogi2wf.png",
       "description": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.",
       "price": "R$ 70,00"
-    },
-    {
-      "id": 2,
-      "name": "Calça Alfaiataria",
-      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Cal%C3%A7a_ntbchc.png",
-      "description": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
-      "price": "R$ 180,00"
     }
-    
   ]
 }

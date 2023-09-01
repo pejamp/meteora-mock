@@ -5,42 +5,80 @@
       "name": "Camiseta Conforto",
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Camiseta_ogi2wf.png",
       "description": "Multicores e tamanhos. Tecido de algodão 100%, fresquinho para o verão. Modelagem unissex.",
-      "price": "R$ 70,00"
+      "price": "R$ 70,00",
+      "category": "camisetas"
     },
     {
       "id": 2,
       "name": "Calça Alfaiataria",
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Cal%C3%A7a_ntbchc.png",
       "description": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
-      "price": "R$ 180,00"
+      "price": "R$ 180,00",
+      "category": "calças"
     },
     {
       "id": 3,
       "name": "Tênis Chunky",
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544204/meteora/Imagens%20Cards/Tenis_z6hlun.png",
       "description": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
-      "price": "R$ 250,00"
+      "price": "R$ 250,00",
+      "category": "calçados"
     },
     {
       "id": 4,
       "name": "Jaqueta Jeans",
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Jaqueta_rjimqr.png",
       "description": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
-      "price": "R$ 150,00"
+      "price": "R$ 150,00",
+      "category": "casacos"
     },
     {
       "id": 5,
       "name": "Óculos Redondo",
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/%C3%B3culos_lauwmp.png",
       "description": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
-      "price": "R$ 120,00"
+      "price": "R$ 120,00",
+      "category": "óculos"
     },
     {
       "id": 6,
       "name": "Bolsa coringa",
       "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693544203/meteora/Imagens%20Cards/Bolsa_vlthym.png",
       "description": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
-      "price": "R$ 120,00"
+      "price": "R$ 120,00",
+      "category": "bolsas"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "camisetas",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693599141/meteora/Imagens%20Cards/Categoria_camiseta_v6f52r.png"
+    },
+    {
+      "id": 2,
+      "name": "bolsas",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693599141/meteora/Imagens%20Cards/Categoria_Bolsa_brwkmp.png"
+    },
+    {
+      "id": 3,
+      "name": "calçados",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693599141/meteora/Imagens%20Cards/Categoria_Cal%C3%A7ados_t1jxs7.png"
+    },
+    {
+      "id": 4,
+      "name": "calças",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693599141/meteora/Imagens%20Cards/Categoria_cal%C3%A7a_y1chc9.png"
+    },
+    {
+      "id": 5,
+      "name": "casacos",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693599142/meteora/Imagens%20Cards/Categoria_casacos_d66zo7.png"
+    },
+    {
+      "id": 6,
+      "name": "óculos",
+      "image": "https://res.cloudinary.com/dsvcvkys8/image/upload/v1693599142/meteora/Imagens%20Cards/Categoria_%C3%B3culos_t8693i.png"
     }
   ]
 }
